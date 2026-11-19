@@ -1,0 +1,5 @@
+int32 control_type
+float64 kp
+float64 kd
+---
+bool success
